@@ -7,7 +7,8 @@ Used to modify the structure of a table, such as adding, dropping, or modifying 
 
 
 #### Add a column
-´´´sql 
+```sql 
 ALTER TABLE table_name ADD column_name data_type; 
-´´´ 
+```
+ 
 fff
